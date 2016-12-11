@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3.2</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="initial_url">https://static.pexels.com/photos/96918/pexels-photo-96918.jpeg</string>
+    <string name="go">Go</string>
+</resources>
